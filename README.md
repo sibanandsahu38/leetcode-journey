@@ -20,7 +20,7 @@ Building strong problem-solving skills through consistent DSA practice.
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/sibanandsahu38?theme=dark&font=Baloo&ext=heatmap" />
 
 </p>
 
@@ -28,13 +28,13 @@ Building strong problem-solving skills through consistent DSA practice.
 
 ## 🏆 Repository Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/sibanandsahu38/leetcode-solutions?style=for-the-badge)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/sibanandsahu38/leetcode-solutions?style=for-the-badge)
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/sibanandsahu38/leetcode-solutions?style=for-the-badge)
 
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/sibanandsahu38/leetcode-solutions?style=for-the-badge)
 
 ---
 
