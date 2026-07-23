@@ -1,139 +1,89 @@
-<div align="center">
-
 # 🚀 LeetCode Solutions
 
-### Mastering Data Structures & Algorithms • One Problem at a Time
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/leetcode-solutions)
+<h1 align="center">LeetCode Solutions</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Welcome+to+my+LeetCode+Journey!;Daily+DSA+Practice;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Preparing+for+Software+Engineering+Interviews" />
-
-</div>
-
----
-
-# 📖 About
-
-Welcome!
-
-This repository contains my **LeetCode solutions** written in multiple programming languages as part of my journey to master **Data Structures & Algorithms**, improve problem-solving skills, and prepare for software engineering interviews.
+<p align="center">
+Building strong problem-solving skills through consistent DSA practice.
+</p>
 
 ---
 
-# 📊 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest"/>
-
-</div>
-
----
-
-# 🔥 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 💻 Languages
+## 📊 LeetCode Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
 
 </p>
 
 ---
 
-# 📂 Repository Structure
+## 🏆 Repository Stats
 
-```text
-leetcode-solutions/
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
 
-├── C
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
-├── CPP
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
-├── Java
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
-├── Python
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
-└── README.md
-```
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/leetcode-solutions?style=for-the-badge)
 
 ---
 
-# 📚 Topics Covered
+## 📂 Languages
+
+- C
+- C++
+- Java
+- Python
+
+---
+
+## 📚 Topics
 
 - Arrays
 - Strings
-- Hash Maps
+- Hashing
 - Linked Lists
 - Stack
 - Queue
 - Trees
-- Binary Trees
-- Binary Search
-- Heap
 - Graphs
+- Binary Search
+- Dynamic Programming
+- Greedy
 - Recursion
 - Backtracking
 - Sliding Window
 - Two Pointers
-- Greedy
-- Dynamic Programming
 - Bit Manipulation
-- Math
 
 ---
 
-# 🎯 Goals
+## ⭐ Goal
 
-- ✅ Solve LeetCode daily
-- ✅ Master Data Structures & Algorithms
-- ✅ Improve coding skills
-- ✅ Prepare for coding interviews
-- ✅ Learn multiple programming languages
-- ✅ Build a strong GitHub portfolio
+✔ Solve LeetCode consistently.
 
----
+✔ Master Data Structures & Algorithms.
 
-# 📅 Progress
+✔ Prepare for Software Engineering Interviews.
 
-My LeetCode statistics above update automatically from my public LeetCode profile.
-
-No manual tracking required.
+✔ Build a strong GitHub portfolio.
 
 ---
 
-# 🤝 Connect
+## 🤝 Connect
 
-If you like this repository, consider giving it a ⭐.
+If you find this repository useful, don't forget to ⭐ it!
 
 Happy Coding! 🚀
-
----
 
 </div>
