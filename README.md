@@ -4,8 +4,8 @@
 
 ### Mastering Data Structures & Algorithms • One Problem at a Time
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/leetcode-solutions)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sibanandsahu38/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sibanandsahu38/leetcode-solutions)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Welcome+to+my+LeetCode+Journey!;Daily+DSA+Practice;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Preparing+for+Software+Engineering+Interviews" />
 
